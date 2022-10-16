@@ -1,0 +1,11 @@
+{
+    "description": "Small Website with Music + for mail acc",
+    "repo": "https://github.com/halaljadeja/mail.github.io",
+    "owner": {
+        "username": "halaljadeja",
+        "discord": "NotJadeja#8008"
+    },
+    "record": {
+        "CNAME": "mail.github.io"
+    }
+} 
